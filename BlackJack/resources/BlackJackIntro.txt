@@ -1,0 +1,8 @@
+WELCOME TO BLACKJACK 
+Blackjack is a casino game with a fast pace. It is the second-most popular card game after poker and is a part of the table
+and card games available in every casino in the globe.
+
+RULES
+If a player's total value of cards is closer to 21 than the dealer's cards, 
+he wins the money staked. If the dealer passes 21 and the player doesn't, 
+that is another way to win. Anyone who has BlackJack(21) is automatically the Winner!
